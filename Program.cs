@@ -1,2 +1,2 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿int numbers = new Random().Next(100, 1000);
+Console.Write($"{numbers} -> {numbers.ToString()[index: 1]}");

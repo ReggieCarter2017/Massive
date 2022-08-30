@@ -1,0 +1,15 @@
+C:\Users\coolp\Desktop\C#\Massives\obj\Debug\net6.0\Massives.csproj.AssemblyReference.cache
+C:\Users\coolp\Desktop\C#\Massives\obj\Debug\net6.0\Massives.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\coolp\Desktop\C#\Massives\obj\Debug\net6.0\Massives.AssemblyInfoInputs.cache
+C:\Users\coolp\Desktop\C#\Massives\obj\Debug\net6.0\Massives.AssemblyInfo.cs
+C:\Users\coolp\Desktop\C#\Massives\obj\Debug\net6.0\Massives.csproj.CoreCompileInputs.cache
+C:\Users\coolp\Desktop\C#\Massives\bin\Debug\net6.0\Massives.exe
+C:\Users\coolp\Desktop\C#\Massives\bin\Debug\net6.0\Massives.deps.json
+C:\Users\coolp\Desktop\C#\Massives\bin\Debug\net6.0\Massives.runtimeconfig.json
+C:\Users\coolp\Desktop\C#\Massives\bin\Debug\net6.0\Massives.dll
+C:\Users\coolp\Desktop\C#\Massives\bin\Debug\net6.0\Massives.pdb
+C:\Users\coolp\Desktop\C#\Massives\obj\Debug\net6.0\Massives.dll
+C:\Users\coolp\Desktop\C#\Massives\obj\Debug\net6.0\refint\Massives.dll
+C:\Users\coolp\Desktop\C#\Massives\obj\Debug\net6.0\Massives.pdb
+C:\Users\coolp\Desktop\C#\Massives\obj\Debug\net6.0\Massives.genruntimeconfig.cache
+C:\Users\coolp\Desktop\C#\Massives\obj\Debug\net6.0\ref\Massives.dll
