@@ -1,6 +1,6 @@
-﻿int numbers = new Random().Next(1, 10000);
-int count = numbers.ToString().Length;
-    if (count >= 3)
-    Console.Write($"{numbers} -> {numbers.ToString()[index: 2]}");
-    else
-    Console.Write("Третьей цифры нет!");
+﻿
+int num = new Random().Next(1, 8);
+    if (num > 5)
+        Console.Write($"{num} -> Сегодня выходной!");
+        else
+        Console.Write($"{num} -> Сегодня рабочий день!");
